@@ -1,0 +1,38 @@
+{
+    "tools": [
+        {
+            "name": "Temp Mail",
+            "url": "https://gxdev.site.je/tempmail/",
+            "desc": "Temp Mail — Fast, Secure & Simple Temporary Email Service",
+            "icon": "fa-envelope",
+            "img": "https://cdn.phototourl.com/free/2026-09-01-4d765266-0207-4230-a119-891e907bc1a3.png",
+            "color": "linear-gradient(135deg, #ff003b, #ff4b4b)"
+        },
+        {
+            "name": "BG REMOVER",
+            "url": "https://gxdev.site.je/bgremover",
+            "img": "https://cdn.phototourl.com/free/2026-09-01-803746d1-51d2-49ed-9223-ade427e39497.png",
+            "desc": "BG Remover — Fast, Clean & Professional Background Removal Tool.",
+            "icon": "fa-cube",
+            "color": "linear-gradient(135deg, #ff003b, #ff4b4b)"
+        },
+        {
+            "name": "WEB TO ZIP",
+            "url": "https://gxdev.site.je/webtozip",
+            "img": "https://cdn.phototourl.com/member/2026-09-01-7ac09623-57da-4b79-a5bc-5ad4da565dea.png",
+            "desc": "Web to ZIP — Convert any website into a ZIP file quickly, easily & effortlessly.",
+            "icon": "fa-cube",
+            "color": "linear-gradient(135deg, #ff003b, #ff4b4b)"
+        },
+        {
+            "name": "PY HOSTING",
+            "url": "https://gxserverx.onrender.com/",
+            "img": "https://cdn.phototourl.com/member/2026-09-01-e0c53250-5a95-41b3-ab2e-dbd68cadb6ef.png",
+            "desc": "Telegram Bot Hosting — Fast, Secure & Reliable Hosting for Your Telegram Bots.",
+            "icon": "fa-cube",
+            "color": "linear-gradient(135deg, #ff003b, #ff4b4b)"
+        }
+    ],
+    "notifications": [],
+    "theme_index": 0
+}
